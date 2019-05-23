@@ -1,0 +1,24 @@
+PODS:
+  - JCore (1.2.6)
+  - JPush (3.1.2):
+    - JCore (~> 1.2.6)
+  - JSONModel (1.8.0)
+
+DEPENDENCIES:
+  - JPush
+  - JSONModel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JCore
+    - JPush
+    - JSONModel
+
+SPEC CHECKSUMS:
+  JCore: cae516dd2bf1a73b578ce6e1065abd49e709e0f7
+  JPush: d0cead70ba223a6a3b52749899ebda830dfbc49a
+  JSONModel: 02ab723958366a3fd27da57ea2af2113658762e9
+
+PODFILE CHECKSUM: 8cb36d61e4ebd77d35f1ae10bad57892f08e04bd
+
+COCOAPODS: 1.6.1
